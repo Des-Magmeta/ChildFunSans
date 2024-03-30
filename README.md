@@ -1,6 +1,8 @@
 # ChildFun Sans | 游趣黑
 An open-source Chinese font devired from Fontworks' Stick. 一款开源简体中文字体，基于 Fontworks 的 Stick 衍生。
 
+游趣黑因笔形像笔杆一样以直线设计，可以表达田园诗般的气氛，而被视为一款带有可爱调皮的气氛的字体，本人基于 Fontworks 出品的日文字体 [ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 扩充、调整字形，并添加 OpenType 特性，以满足简体中文的使用需求。
+
 ## 补字计划  
  ### 简体部分  
  - [ ] 增补原字库中含有的繁体字对应的简化字； 
