@@ -9,10 +9,12 @@ An open-source Chinese font devired from Fontworks' Stick. 一款开源简体中
  ### 简体部分  
  - [ ] 增补原字库中含有的繁体字对应的简化字； 
  - [ ] 增补 3500 常用汉字 <sup>①</sup>; 
- - [ ] 目标字汇范围内修改 G 形; 
+ - [x] 目标字汇<sup>②</sup>范围内修改 G 形; 
  - [ ] 增补 [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)）及[《通用规范汉字表》](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt)（[原文](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)）；
   
  **<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，等效于《通用规范汉字表》一级字表），共计 3603 字。 
+
+**<sup>②</sup>** 包括 GB2312-1980 和《通用规范汉字表》，部分字形差异视为设计特性，不做修改。如「幺」「亥」等字。
 
 ### 繁体部分  
 由于该字体目前定位仍以简体为主，目前无对原字体包含的繁体部分增补及修改的计划。
