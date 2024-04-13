@@ -14,7 +14,7 @@ An open-source Chinese font devired from Fontworks' Stick. 一款开源简体中
   
  **<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，等效于《通用规范汉字表》一级字表），共计 3603 字。 
 
-**<sup>②</sup>** 包括 GB2312-1980 和《通用规范汉字表》，部分字形差异视为设计特性，不做修改。如「幺」「亥」等字。
+**<sup>②</sup>** 包括 GB2312-1980 和《通用规范汉字表》，部分字形差异视为设计特性，不做修改，如「幺」「亥」等字。
 
 ### 繁体部分  
 由于该字体目前定位仍以简体为主，目前无对原字体包含的繁体部分增补及修改的计划。
