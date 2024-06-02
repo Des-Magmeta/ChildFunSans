@@ -1,7 +1,7 @@
 # Child Fun Sans | 游趣黑
 An open-source Chinese font devired from Fontworks' Stick. 一款开源简体中文字体，基于 Fontworks 的 Stick 衍生。
 
-游趣黑因笔形像笔杆一样以直线设计，而被视为一款带有可爱调皮的气氛，抑或是可以表达田园诗般的气氛的字体，本人基于 Fontworks 出品的日文字体 [ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 扩充、调整字形，并添加 OpenType 特性，以满足简体中文的使用需求。
+游趣黑因笔形像笔杆一样以直线设计，而被视为一款带有可爱调皮的气氛，抑或是可以表达田园诗般的气氛的字体，本人基于 Fontworks 出品的日文字体 [ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 扩充、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
 
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/Preview.jpg) 
 
@@ -14,7 +14,7 @@ An open-source Chinese font devired from Fontworks' Stick. 一款开源简体中
   
  **<sup>①</sup>** 包括[「现代汉语常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt)（老 3500 字）及[「义务教育语文课程常用字表」](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt)（新 3500 字，等效于《通用规范汉字表》一级字表），共计 3603 字。 
 
-**<sup>②</sup>** 包括 GB2312-1980 和《通用规范汉字表》，部分字形差异视为设计特性，不做修改，如「幺」「亥」等字。
+**<sup>②</sup>** 包括 GB/T 2312-1980 和《通用规范汉字表》，部分字形差异视为设计特性，不做修改，如「幺」「亥」等字。
 
 ### 繁体部分  
 由于该字体目前定位仍以简体为主，目前无对原字体包含的繁体部分增补及修改的计划。
@@ -26,6 +26,6 @@ An open-source Chinese font devired from Fontworks' Stick. 一款开源简体中
  - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。 
  - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://openfontlicense.org) 公开。 
  ### 限制 
- - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「游趣黑」，基于本字体二次衍生的字体，名称不可出现「游趣黑」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「游趣黑」。 
+ - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「游趣黑」「Child Fun Sans」，基于本字体二次衍生的字体，名称不可出现「游趣黑」「Child Fun Sans」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「游趣黑」「Child Fun Sans」。 
  - 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。** 
  - 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
