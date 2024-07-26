@@ -9,14 +9,14 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
  ### 简体部分  
  - [x] 目标字汇<sup>①</sup>范围内修改 G 形<sup>②</sup>;   
  - [ ] 增补原字库中含有的繁体字对应的简化字； 
- - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字； 
+ - [x] [义务教育常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/yiwu_jiaoyu.txt) 3500 字； 
  - [ ] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字； 
  - [ ] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字； 
  - [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字； 
  - [ ] 按需添加一些表外字，参照[「霞鹜开源字体外字初步整理一览表」第一部分](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。 
 
- ① 包括《现代汉语常用字表》、GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》。  
- ② 修改范围包括《现代汉语常用字表》、GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》，部分字形差异视为设计特性，不做修改，如「厶」「幺」「亥」等字。
+ ① 包括《义务教育常用字表》、GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》。  
+ ② 修改范围包括《义务教育常用字表》、GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》，部分字形差异视为设计特性，不做修改，如「厶」「幺」「亥」等字。
 
 ### 繁体部分  
 由于该字体目前定位仍以简体为主，目前无对原字体包含的繁体部分增补及修改的计划。
