@@ -1,7 +1,7 @@
 # Child Fun Sans | 游趣体
 An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中文字体，基于 Fontworks 的 Stick 衍生。
 
-游趣体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦可以表达田园诗般气氛的字体，本人基于 Fontworks 出品的日文字体[ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 扩充、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
+游趣体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，本人基于 Fontworks 出品的日文字体[ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 扩充、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
 
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/Preview.jpg) 
 
@@ -15,9 +15,8 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
  - [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字； 
  - [ ] 按需添加一些表外字，参照[「霞鹜开源字体外字初步整理一览表」第一部分](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。 
 
- **<sup>①</sup>** 包括《现代汉语常用字表》《GB/T 2312-1980》《现代汉语通用字表》《通用规范汉字表》。
-
-**<sup>②</sup>** 修改范围包括 GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》，部分字形差异视为设计特性，不做修改，如「厶」「幺」「亥」等字。
+ ① 包括《现代汉语常用字表》、GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》。  
+ ② 修改范围包括《现代汉语常用字表》、GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》，部分字形差异视为设计特性，不做修改，如「厶」「幺」「亥」等字。
 
 ### 繁体部分  
 由于该字体目前定位仍以简体为主，目前无对原字体包含的繁体部分增补及修改的计划。
