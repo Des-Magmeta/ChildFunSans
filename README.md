@@ -6,11 +6,16 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
 
 ## 字体预览
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-1.jpg)  
+
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-2.jpg)  
+
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-3.jpg)  
+
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-4.jpg)  
+
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-5.jpg)  
-![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-6.jpg) 
+
+![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-6.jpg)  
 
 ## 补字计划  
  ### 简体部分  
