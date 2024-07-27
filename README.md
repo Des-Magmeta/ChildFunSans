@@ -5,7 +5,12 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
 游趣体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，本人基于 Fontworks 出品的日文字体[ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 扩充、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
 
 ## 字体预览
-![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/Preview.jpg) 
+![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-1.jpg) 
+![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-2.jpg) 
+![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-3.jpg)
+![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-4.jpg)
+![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-5.jpg) 
+![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans-6.jpg) 
 
 ## 补字计划  
  ### 简体部分  
@@ -24,8 +29,8 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
 由于该字体目前定位仍以简体为主，目前无对原字体包含的繁体部分增补及修改的计划。
 
 ## 注意事项
- 1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 Issue #1 提出，不要另开议题，以便于整理。 （以上两个议题均已加上 long term 标签，且均已在 Issues 页面置顶。）
- 2. 在补齐 GB/T 2312-1980 前，此字体将出现一定的缺字可能。在不介意字体回退的情况下，如需支持缺字字符，请移步[「游趣体融合」/ Child Fun Sans Fusion](https://github.com/Des-Magmeta/ChildFunSans-Fusion)。  
+ 1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans/issues/1) 提出。如需请求添加目标范围以外的字符，请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans/issues/2) 提出，不要另开议题，以便于整理。 （以上两个议题均已加上 long term 标签，且均已在 Issues 页面置顶。）
+ 2. 在补齐 GB/T 2312-1980 前，此字体将出现一定的缺字可能。在不介意字体回退的情况下，如需支持缺字字符，请移步[「游趣体融合」/ Child Fun Sans Fusion](https://github.com/Des-Magmeta/ChildFunSans-Fusion)。
 
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
