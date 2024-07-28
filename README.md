@@ -52,3 +52,9 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
  - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「游趣体」「Child Fun Sans」，基于本字体二次衍生的字体，名称不可出现「游趣体」「Child Fun Sans」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「游趣体」「Child Fun Sans」。 
  - 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。** 
  - 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
+
+## 鸣谢 
+  
+ - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/) 
+ - [@LXGW](https://github.com/lxgw) 等为字形设计提供指导；  
+ - [@Steve-Yuu](https://github.com/Steve-Yuu) 协助完善字体。
