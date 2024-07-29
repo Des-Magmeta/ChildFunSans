@@ -1,4 +1,8 @@
-# Child Fun Sans | 游趣体
+# Child Fun Sans | 游趣体  
+
+[![开源授权](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans/blob/main/OFL.txt)  
+[![最新版](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans/releases/latest)  
+
 An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中文字体，基于 Fontworks 的 Stick 衍生。
 
 ## 项目简介  
