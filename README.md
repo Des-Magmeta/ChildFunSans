@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![开源授权](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans/blob/main/OFL.txt) 
- [![最新版](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans/releases/latest)  
+[![开源授权](https://img.shields.io/github/license/Des-Magmeta/ChildFunSans?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans/blob/main/OFL.txt) 
+ [![最新版](https://img.shields.io/github/release/Des-Magmeta/ChildFunSans?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans/releases/latest)  
 </div>
 
 An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中文字体，基于 Fontworks 的 Stick 衍生。
