@@ -1,6 +1,7 @@
 # Child Fun Sans | 游趣体  
 
 <div align="center">
+
 [![开源授权](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans/blob/main/OFL.txt) 
  [![最新版](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/ChildFunSans/releases/latest)  
 </div>
