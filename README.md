@@ -62,7 +62,7 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
 
 ## 鸣谢 
   
- - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/) 
+ - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体；([开发者 GitHub 主页](https://github.com/fontworks-fonts/))  
  - [@LXGW](https://github.com/lxgw) 等为字形设计提供指导；  
  - [@Steve-Yuu](https://github.com/Steve-Yuu) 协助完善字体。
 
