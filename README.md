@@ -26,7 +26,7 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
 
 ## 补字计划  
  ### 简体部分  
- - [x] 目标字汇<sup>①</sup>范围内修改 G 形<sup>②</sup>;   
+ - [x] 目标字汇<sup>①</sup>范围内修改 G 形<sup>②</sup>；  
  - [ ] 增补原字库中含有的繁体字对应的简化字； 
  - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字； 
  - [ ] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字； 
