@@ -64,8 +64,8 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
 ## 鸣谢 
   
  - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体；([开发者 GitHub 主页](https://github.com/fontworks-fonts/))  
- - [@LXGW](https://github.com/lxgw) 等为字形设计提供指导；  
- - [@奈白不弍](https://github.com/Buernia)、[@Steve-Yuu](https://github.com/Steve-Yuu) 协助完善字体。
+ - [@LXGW](https://github.com/lxgw)、[@奈白不弍](https://github.com/Buernia)、[ZERO 子](https://github.com/Skr-ZERO) 等为字形设计提供指导；  
+ - [@奈白不弍](https://github.com/Buernia)、[@Steve-Yuu](https://github.com/Steve-Yuu)、[@不务正业的小鸡](https://github.com/buwuzhengyedexiaoji) 协助完善字体。
 
 ## Stargazers over time   
  [![Stargazers over time](https://starchart.cc/Des-Magmeta/ChildFunSans.svg)](https://starchart.cc/Des-Magmeta/ChildFunSans)
