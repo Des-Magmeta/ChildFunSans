@@ -43,7 +43,9 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
 ## 注意事项
  1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans/issues/1) 提出。如需请求添加目标范围以外的字符，请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans/issues/2) 提出，不要另开议题，以便于整理。 （以上两个议题均已加上 long term 标签，且均已在 Issues 页面置顶。）
  2. 在补齐 GB/T 2312-1980 前，此字体将出现一定的缺字可能。在不介意字体回退的情况下，如需支持缺字字符，请移步[「游趣体融合」/ Child Fun Sans Fusion](https://github.com/Des-Magmeta/ChildFunSans-Fusion)。
- 3. 自 0.300 版本起，「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号`“‘’”`宽度和标点符号`，．、。：；！？`位置的选择。经作者测试，WPS Office、PowerPoint 2019 软件不支持此特性，后续版本中将可能随时删除。
+ 3. 自 0.300 版本起，「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号`，．、。：；！？`位置的选择。经作者测试，**WPS Office、PowerPoint (Microsoft 365) 软件不支持此特性**，使用时需留意。因此后续版本中可能随时删除此特性。
+  **Q: **如何使用全宽弯引号？ 
+  **A: **在 Word (Microsoft 365) 中，在弯引号（`“‘’”`）后输入 FE01，再按 Alt + X，即可实现全宽弯引号。
 
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
