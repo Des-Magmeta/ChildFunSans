@@ -45,8 +45,8 @@ An open-source Chinese font derived from Fontworks' Stick. 一款开源简体中
  2. 在补齐 GB/T 2312-1980 前，此字体将出现一定的缺字可能。在不介意字体回退的情况下，如需支持缺字字符，请移步[「游趣体融合」/ Child Fun Sans Fusion](https://github.com/Des-Magmeta/ChildFunSans-Fusion)。
  3. 自 0.300 版本起，「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号`，．、。：；！？`位置的选择。经作者测试，**WPS Office、PowerPoint (Microsoft 365) 软件不支持此特性**，使用时需留意。因此后续版本中可能随时删除此特性。  
 
-> **Q: **如何使用全宽弯引号？  
-> **A: **在 Word (Microsoft 365) 中，在弯引号（`“‘’”`）后输入 FE01，再按 Alt + X，即可实现全宽弯引号。
+> **Q: ** 如何使用全宽弯引号？  
+> **A: ** 在 Word (Microsoft 365) 中，在弯引号（`“‘’”`）后输入 FE01，再按 Alt + X，即可实现全宽弯引号。
 
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
