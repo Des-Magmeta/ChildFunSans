@@ -22,4 +22,4 @@ Unicode 标准化变体序列 (SVS) 资料来源：https://www.unicode.org/Publi
 A：在 Word (Microsoft 365) 中，在支持变体序列的字符后（如弯引号`“‘’”`）后输入变体选择符的 Unicode 码位（如`FE01`），再按 Alt + X，即可使用变体序列。
 
 ## Q：为什么此字体在一些情况下不支持 SVS 特性？ 
-A：
+A：部分软件不支持此特性，如**WPS Office、PowerPoint (Microsoft 365)** 等，使用时需留意。
