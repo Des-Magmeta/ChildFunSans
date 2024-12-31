@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutemod" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="02CA"/>
+  <outline>
+    <contour>
+      <point x="289" y="493" type="line"/>
+      <point x="622" y="765" type="line"/>
+      <point x="682" y="686" type="line"/>
+      <point x="333" y="443" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,1,0.603921568627451,1</string>
+      <key>public.verticalOrigin</key>
+      <string>880</string>
+    </dict>
+  </lib>
+</glyph>

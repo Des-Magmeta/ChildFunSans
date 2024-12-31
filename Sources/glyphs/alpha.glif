@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alpha" format="2">
+  <advance width="535" height="1000"/>
+  <unicode hex="0251"/>
+  <outline>
+    <contour>
+      <point x="392" y="69" type="line"/>
+      <point x="33" y="-31" type="line"/>
+      <point x="92" y="75" type="line"/>
+      <point x="374" y="147" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="521" type="line"/>
+      <point x="455" y="521" type="line"/>
+      <point x="463" y="-21" type="line"/>
+      <point x="376" y="-21" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="404" type="line"/>
+      <point x="159" y="417" type="line"/>
+      <point x="128" y="41" type="line"/>
+      <point x="33" y="-31" type="line"/>
+      <point x="83" y="506" type="line"/>
+      <point x="324" y="484" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,1,0.603921568627451,1</string>
+      <key>public.verticalOrigin</key>
+      <string>880</string>
+    </dict>
+  </lib>
+</glyph>
