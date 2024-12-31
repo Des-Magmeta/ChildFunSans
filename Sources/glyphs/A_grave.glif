@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="2">
+  <advance width="741" height="1000"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="291" y="932" type="line"/>
+      <point x="435" y="796" type="line"/>
+      <point x="387" y="742" type="line"/>
+      <point x="226" y="857" type="line"/>
+    </contour>
+    <contour>
+      <point x="532" y="228" type="line"/>
+      <point x="268" y="198" type="line"/>
+      <point x="260" y="283" type="line"/>
+      <point x="499" y="308" type="line"/>
+      <point x="338" y="702" type="line"/>
+      <point x="416" y="732" type="line"/>
+      <point x="724" y="11" type="line"/>
+      <point x="634" y="-23" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="615" type="line"/>
+      <point x="353" y="590" type="line"/>
+      <point x="103" y="-27" type="line"/>
+      <point x="18" y="-4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <string>880</string>
+    </dict>
+  </lib>
+</glyph>

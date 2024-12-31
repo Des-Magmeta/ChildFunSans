@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="2">
+  <advance width="741" height="1000"/>
+  <unicode hex="0102"/>
+  <outline>
+    <contour>
+      <point x="532" y="228" type="line"/>
+      <point x="268" y="198" type="line"/>
+      <point x="260" y="283" type="line"/>
+      <point x="499" y="308" type="line"/>
+      <point x="338" y="702" type="line"/>
+      <point x="416" y="732" type="line"/>
+      <point x="724" y="11" type="line"/>
+      <point x="634" y="-23" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="615" type="line"/>
+      <point x="353" y="590" type="line"/>
+      <point x="103" y="-27" type="line"/>
+      <point x="18" y="-4" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="862" type="line"/>
+      <point x="504" y="822"/>
+      <point x="418" y="783"/>
+      <point x="371" y="783" type="qcurve"/>
+      <point x="325" y="783"/>
+      <point x="238" y="822"/>
+      <point x="213" y="862" type="qcurve"/>
+      <point x="281" y="910" type="line"/>
+      <point x="292" y="892"/>
+      <point x="345" y="862"/>
+      <point x="371" y="862" type="qcurve"/>
+      <point x="397" y="862"/>
+      <point x="450" y="892"/>
+      <point x="461" y="910" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6,1,0.603921568627451,1</string>
+      <key>public.verticalOrigin</key>
+      <string>880</string>
+    </dict>
+  </lib>
+</glyph>
