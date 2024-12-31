@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde.full.vert" format="2">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="527" y="273" type="line"/>
+      <point x="364" y="463" type="line"/>
+      <point x="526" y="785" type="line"/>
+      <point x="606" y="745" type="line"/>
+      <point x="473" y="487" type="line"/>
+      <point x="636" y="297" type="line"/>
+      <point x="474" y="-25" type="line"/>
+      <point x="394" y="15" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <string>880</string>
+    </dict>
+  </lib>
+</glyph>

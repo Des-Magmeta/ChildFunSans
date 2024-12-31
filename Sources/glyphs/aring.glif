@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aring" format="2">
+  <advance width="514" height="1000"/>
+  <unicode hex="00E5"/>
+  <outline>
+    <contour>
+      <point x="311" y="671" type="qcurve"/>
+      <point x="311" y="628"/>
+      <point x="252" y="569"/>
+      <point x="209" y="569" type="qcurve"/>
+      <point x="166" y="569"/>
+      <point x="107" y="628"/>
+      <point x="107" y="671" type="qcurve"/>
+      <point x="107" y="714"/>
+      <point x="166" y="773"/>
+      <point x="209" y="773" type="qcurve"/>
+      <point x="252" y="773"/>
+      <point x="311" y="714"/>
+    </contour>
+    <contour>
+      <point x="260" y="671" type="qcurve"/>
+      <point x="260" y="692"/>
+      <point x="230" y="722"/>
+      <point x="209" y="722" type="qcurve"/>
+      <point x="188" y="722"/>
+      <point x="158" y="692"/>
+      <point x="158" y="671" type="qcurve"/>
+      <point x="158" y="650"/>
+      <point x="188" y="620"/>
+      <point x="209" y="620" type="qcurve"/>
+      <point x="230" y="620"/>
+      <point x="260" y="650"/>
+    </contour>
+    <contour>
+      <point x="392" y="69" type="line"/>
+      <point x="111" y="-24" type="line"/>
+      <point x="29" y="253" type="line"/>
+      <point x="270" y="351" type="line"/>
+      <point x="299" y="278" type="line"/>
+      <point x="129" y="210" type="line"/>
+      <point x="169" y="82" type="line"/>
+      <point x="374" y="147" type="line"/>
+      <point x="311" y="428" type="line"/>
+      <point x="58" y="379" type="line"/>
+      <point x="39" y="458" type="line"/>
+      <point x="379" y="521" type="line"/>
+      <point x="497" y="0" type="line"/>
+      <point x="412" y="-24" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <string>880</string>
+    </dict>
+  </lib>
+</glyph>
