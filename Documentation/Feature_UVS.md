@@ -10,10 +10,10 @@ Unicode 标准化变体序列 (Standardized Variation Sequences, SVS) 资料来�
 | ． | `U+FF0E` | 左下[<span lang="zh-cn">．︀</span>] | 居中[<span lang="zh-tw">．︁</span>] |
 | 、 | `U+3001` | 左下[<span lang="zh-cn">、︀</span>] | 居中[<span lang="zh-tw">、︁</span>] |
 | 。 | `U+3002` | 左下[<span lang="zh-cn">。︀</span>] | 居中[<span lang="zh-tw">。︁</span>] |
-| ： | `U+FF1A` | 左下[：︀] | 居中[：︁] |
-| ； | `U+FF1B` | 左下[；︀] | 居中[；︁] |
-| ！ | `U+FF01` | 居左[！︀] | 居中[！︁] |
-| ？ | `U+FF1F` | 居左[？︀] | 居中[？︁] |
+| ： | `U+FF1A` | 左下[<span lang="zh-cn">：︀</span>] | 居中[<span lang="zh-tw">：︁</span>] |
+| ； | `U+FF1B` | 左下[<span lang="zh-cn">；︀</span>] | 居中[<span lang="zh-tw">；︁</span>] |
+| ！ | `U+FF01` | 居左[<span lang="zh-cn">！︀</span>] | 居中[<span lang="zh-tw">！︁</span>] |
+| ？ | `U+FF1F` | 居左[<span lang="zh-cn">？︀</span>] | 居中[<span lang="zh-tw">？︁</span>] |
 | “ | `U+201C` | 非全宽[“] | 全宽[“︁] |
 | ” | `U+201D` | 非全宽[”] | 全宽[”︁] |
 | ‘ | `U+2018` | 非全宽[‘] | 全宽[‘︁] |
