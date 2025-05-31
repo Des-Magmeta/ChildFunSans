@@ -39,13 +39,13 @@ An open-source Chinese font derived from Fontworks' Stick.
  ② 部分字形差异视为设计特性，不做修改，如「厶」「幺」「亥」等字。
 
 ### 繁体部分  
-> 该部分将在简体部分补字计划完成后进行。
+> 该部分将在简体部分补字计划完成后进行，届时将开设繁体中文版，并与之同步进行。
 - [ ] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字； 
  - [ ] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字； 
- - [ ] [「JF 当务字集」](https://github.com/justfont/jf7000)基本包所含汉字
+ - [ ] [「JF 当务字集」](https://github.com/justfont/jf7000)基本包所含汉字； 
  - [ ] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字； 
  - [ ] [BIG5 一级（常用）汉字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 个； 
- - [ ] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件 1：「规范字与繁体字、异体字对照表」中的繁体字列（一、二、三级）。
+ - [ ] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件「规范字与繁体字、异体字对照表」中的繁体字列（一、二、三级）。
 
 ## 注意事项
  1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans/issues/1) 提出。如需请求添加目标范围以外的字符，请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans/issues/2) 提出，不要另开议题，以便于整理。 （以上两个议题均已加上 long term 标签，且均已在 Issues 页面置顶。）
