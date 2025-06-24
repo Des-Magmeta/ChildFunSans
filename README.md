@@ -73,5 +73,5 @@ An open-source Chinese font derived from Fontworks' Stick.
  - [@LXGW](https://github.com/lxgw)、[@奈白不弍](https://github.com/Buernia)、[@ZERO 子](https://github.com/Skr-ZERO) 等为字形设计提供指导；  
  - [@奈白不弍](https://github.com/Buernia)、[@Steve-Yuu](https://github.com/Steve-Yuu)、[@不务正业的小鸡](https://github.com/buwuzhengyedexiaoji)、[@GeorgomeFont](https://github.com/GeorgomeFont) 协助完善字体。
 
-## Stargazers over time   
+## 本项目星数趋势图    
  [![Stargazers over time](https://starchart.cc/Des-Magmeta/ChildFunSans.svg)](https://starchart.cc/Des-Magmeta/ChildFunSans)
