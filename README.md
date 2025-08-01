@@ -30,7 +30,7 @@ An open-source Chinese font derived from Fontworks' Stick.
  - [x] 目标字汇<sup>①</sup>范围内修改 G 形<sup>②</sup>；  
  - [x] 增补原字库中含有的繁体字对应的简化字； 
  - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字； 
- - [ ] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字； 
+ - [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字； 
  - [ ] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字； 
  - [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字； 
  - [ ] 按需添加一些表外字，参照[「霞鹜开源字体外字初步整理一览表」第一部分](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。 
@@ -71,7 +71,7 @@ An open-source Chinese font derived from Fontworks' Stick.
 ## 鸣谢 
  - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原始开源字体；([开发者 GitHub 主页](https://github.com/fontworks-fonts/))  
  - [@LXGW](https://github.com/lxgw)、[@奈白不弍](https://github.com/Buernia)、[@ZERO 子](https://github.com/Skr-ZERO) 等为字形设计提供指导；  
- - [@奈白不弍](https://github.com/Buernia)、[@Steve-Yuu](https://github.com/Steve-Yuu)、[@不务正业的小鸡](https://github.com/buwuzhengyedexiaoji)、[@GeorgomeFont](https://github.com/GeorgomeFont) 协助完善字体。
+ - [@奈白不弍](https://github.com/Buernia)、@Steve-Yuu、[@不务正业的小鸡](https://github.com/buwuzhengyedexiaoji)、@GeorgomeFont 协助完善字体。
 
 ## 本项目星数趋势图    
  [![Stargazers over time](https://starchart.cc/Des-Magmeta/ChildFunSans.svg)](https://starchart.cc/Des-Magmeta/ChildFunSans)
