@@ -12,14 +12,10 @@ EXPORT.mkdir(exist_ok=True)
 for file in SOURCE.glob("*.ufo"):
     # We keep a single copy of the common Hanzi data, and merge it into the Latins as necessary
     coreUFO = ufoLib2.Font.open(file)
-    if "Regular" in str(file):
-        commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiKR_common-Regular.ufo")
-    elif "Medium" in str(file):
-        commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiKR_common-Medium.ufo")
-    elif "Bold" in str(file):
-        commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiKR_common-Bold.ufo")
+    if "ZHS" in str(file):
+        commonUFO = ufoLib2.Font.open("sources/temp/ChildFunSansZHS-Regular.ufo")
     else:
-        commonUFO = ufoLib2.Font.open("sources/temp/LXGWWenKaiKR_common-Light.ufo")
+        commonUFO = ufoLib2.Font.open("sources/temp/ChildFunSans-Regular.ufo")
 
     print(f"Merging {file.name}")
 
