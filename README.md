@@ -13,6 +13,10 @@ An open-source Chinese font derived from Fontworks' Stick.
 游趣体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，本人基于 Fontworks 出品的日文字体[ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 增补、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
 
 ## 字体预览  
+![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans_Long.jpg)  
+
+<!--
+
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans_1.jpg)  
 
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans_2.jpg)  
@@ -25,6 +29,7 @@ An open-source Chinese font derived from Fontworks' Stick.
 
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans_6.jpg)  
 
+-->
 ## 补字计划  
  ### 简体部分  
  - [x] 目标字汇<sup>①</sup>范围内修改 G 形<sup>②</sup>；  
