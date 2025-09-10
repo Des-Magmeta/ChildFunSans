@@ -58,6 +58,7 @@ An open-source Chinese font derived from Fontworks' Stick.
  2. ~~在补齐 GB/T 2312 前，此字体将出现一定的缺字可能。在不介意字体回退的情况下，如需支持缺字字符，请移步[「游趣体融合」](https://github.com/Des-Magmeta/ChildFunSans-Fusion)。~~ 此项目 0.400 版本已补齐 GB/T 2312，「游趣体融合」已永久停更并归档处理。  
  3. 自 0.300 版本起，「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号`，．、。：；！？`位置的选择，支持变体序列的字符和所搭配的选择符详见[「游趣体」变体序列一览表](https://github.com/Des-Magmeta/ChildFunSans/blob/main/Documentation/Feature_UVS.md)。**WPS Office、PowerPoint (Microsoft 365) 软件不支持此特性**，使用时需留意。 
  4. 部分软件（如 PowerPoint 365）中，使用该字体可能会出现竖排文本显示异常的问题（如弯引号不能正确显示）。关于此问题，详见 [Issue #3](https://github.com/Des-Magmeta/ChildFunSans/issues/3)。
+ 5. 自 0.310 版本起，此项目在同一发行版中同时发布完整版（Full）和简体版（ZHS），差异字符见[文件内容差异一览](./Documantation/Difference.md)。
 
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。  
