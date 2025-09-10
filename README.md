@@ -46,7 +46,7 @@ An open-source Chinese font derived from Fontworks' Stick.
 
 ### 繁体部分  
 > 该部分将在简体部分补字计划完成后进行，届时将开设繁体中文版，并与之同步进行。
-- [ ] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字； 
+ - [ ] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字； 
  - [ ] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字； 
  - [ ] [「JF 当务字集」](https://github.com/justfont/jf7000)基本包所含汉字； 
  - [ ] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字； 
@@ -58,7 +58,7 @@ An open-source Chinese font derived from Fontworks' Stick.
  2. ~~在补齐 GB/T 2312 前，此字体将出现一定的缺字可能。在不介意字体回退的情况下，如需支持缺字字符，请移步[「游趣体融合」](https://github.com/Des-Magmeta/ChildFunSans-Fusion)。~~ 此项目 0.400 版本已补齐 GB/T 2312，「游趣体融合」已永久停更并归档处理。  
  3. 自 0.300 版本起，「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号`，．、。：；！？`位置的选择，支持变体序列的字符和所搭配的选择符详见[「游趣体」变体序列一览表](./Documentation/Feature_UVS.md)。**WPS Office、PowerPoint (Microsoft 365) 软件不支持此特性**，使用时需留意。 
  4. 部分软件（如 PowerPoint 365）中，使用该字体可能会出现竖排文本显示异常的问题（如弯引号不能正确显示）。关于此问题，详见 [Issue #3](https://github.com/Des-Magmeta/ChildFunSans/issues/3)。
- 5. 自 0.310 版起，「游趣体」项目在同一版本中同时发布完整版和简体版，除收录汉字数量上的差异外，部分符号的字形存在一定差异。差异字符见[文件内容差异一览](./Documantation/Difference.md)。
+ 5. 自 0.310 版起，「游趣体」项目在同一版本中同时发布完整版和简体版，除收录汉字数量上的差异外，部分符号的字形存在一定差异。差异字符详见[文件内容差异一览](./Documentation/Difference.md)。
 
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。  
