@@ -159,7 +159,7 @@
 - [ ] 通用規範漢字表 第二級（及對應繁體）
 ### 較低優先級
 - [ ] 通用規範漢字表 第三級（及對應繁體）
-- [ ] BIG5
+<!-- [ ] BIG5 -->
 
 ## 參考文獻／字型
  1. [《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](https://github.com/lxgw/LxgwXiHei/blob/main/documentation/plan.md)
