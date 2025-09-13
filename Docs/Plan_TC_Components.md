@@ -165,3 +165,5 @@
  1. [《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](https://github.com/lxgw/LxgwXiHei/blob/main/documentation/plan.md)
  2. [IBM Plex Sans TC](https://github.com/IBM/plex)
  3. [華英明朝](https://github.com/GuiWonder/HuayingMincho)
+ 4. [臺北黑體](https://sites.google.com/view/jtfoundry/)
+ 5. [一點字坊](https://github.com/ichitenfont/)[傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)及[一點明體](https://github.com/ichitenfont/I.Ming)
