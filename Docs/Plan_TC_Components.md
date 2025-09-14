@@ -1,4 +1,4 @@
-<img width="1446" height="35" alt="image" src="https://github.com/user-attachments/assets/44180d40-9ae4-4e55-9efa-426b2c46b60e" /><img width="548" height="28" alt="image" src="https://github.com/user-attachments/assets/0ad2e5f2-0837-49fa-bf86-fb1bfa9133f6" /># 「遊趣體」繁體版設計計劃
+# 「遊趣體」繁體版設計計劃
 ## 總體計劃
  - 由於時間和精力關係，目前計劃僅包含 IICore 範圍内 9810 個漢字和 JF7000 基本包收錄漢字，并未考慮與「遊趣體」簡體版所收字彙平齊。（鑒於 IICore 覆蓋範圍有限，後續可能會視情况增加一系列字。）
  - 漢字部件的選用盡可能使用原版／簡體版既有的字形，如「辛」上部在原始授權字型 Stick 中均作「亠」，故 TC 版仍沿用「亠」形；
