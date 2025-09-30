@@ -66,7 +66,7 @@ An open-source Chinese font derived from Fontworks' Stick.
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。  
  - **Email:** des-magmeta@163.com；1265318015@qq.com 
- - **哔哩哔哩：** [仲代 Magmeta](https://space.bilibili.com/3546981905467779)
+ - **哔哩哔哩：**[仲代 Magmeta](https://space.bilibili.com/3546981905467779)
 
 ## 授权信息 
  本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Stick](https://github.com/fontworks-fonts/Stick) 开源项目。
