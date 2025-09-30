@@ -45,7 +45,8 @@ An open-source Chinese font derived from Fontworks' Stick.
  ② 部分字形差异视为设计特性，不做修改，如「厶」「幺」「亥」等字。
 
 ### 繁体部分  
-> 该部分将在简体部分补字计划完成后进行，届时将开设繁体中文版，并与之同步进行。  
+> 该部分将在简体部分补字计划完成后进行，届时将开设繁体中文版，并与之同步进行。 
+>  
 > 在繁体版项目发布初版之前，补字计划列表可能随时发生变动，届时以实际支持情况为准。
 
  - [ ] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字； 
@@ -64,16 +65,17 @@ An open-source Chinese font derived from Fontworks' Stick.
 
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。  
- - **Email:** des-magmeta@163.com；1265318015@qq.com
+ - **Email:** des-magmeta@163.com；1265318015@qq.com 
+ - **哔哩哔哩：** [仲代 Magmeta](https://space.bilibili.com/3546981905467779)
 
 ## 授权信息 
- 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 开源项目。
+ 本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Stick](https://github.com/fontworks-fonts/Stick) 开源项目。
  ### 许可 
  - 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）* 
  - 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。 
  - 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL 1.1](https://openfontlicense.org) 公开。 
  ### 限制 
- - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「游趣体」「Child Fun Sans」，基于本字体二次衍生的字体，名称不可出现「游趣体」「Child Fun Sans」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「游趣体」「Child Fun Sans」。 
+ - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「游趣体」「遊趣體」「Child Fun Sans」，基于本字体二次衍生的字体，名称不可出现「游趣体」「遊趣體」「Child Fun Sans」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称。 
  - 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。** 
  - 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
 
