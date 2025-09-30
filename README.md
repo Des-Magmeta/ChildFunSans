@@ -8,10 +8,10 @@
 </div>
 
 An open-source Chinese font derived from Fontworks' Stick. 
-一款开源简体中文字体，基于 Fontworks 的 Stick 衍生。
+一款开源简体中文字体，基于 Fontworks（今 Monotype 株式会社）的 Stick 衍生。
 
 ## 项目简介  
-游趣体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，本人基于 Fontworks 出品的日文字体[ステッキ / Stick](https://github.com/fontworks-fonts/Stick) 增补、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
+游趣体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，本人基于 Fontworks 出品的日文字体 [Stick](https://github.com/fontworks-fonts/Stick) 增补、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
 
 ## 字体预览  
 ![](https://raw.githubusercontent.com/Des-Magmeta/ChildFunSans/main/Images/ChildFunSans_Long.png)  
@@ -38,7 +38,7 @@ An open-source Chinese font derived from Fontworks' Stick.
  - [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字； 
  - [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字； 
  - [ ] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字； 
- - [ ] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字； 
+ - [x] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字； 
  - [ ] 按需添加一些表外字，参照[「霞鹜开源字体外字初步整理一览表」第一部分](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。 
 
  ① 包括《义务教育语文课程常用字表》、GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》。  
@@ -46,6 +46,8 @@ An open-source Chinese font derived from Fontworks' Stick.
 
 ### 繁体部分  
 > 该部分将在简体部分补字计划完成后进行，届时将开设繁体中文版，并与之同步进行。
+> 在繁体版项目发布初版之前，补字计划列表可能随时发生变动，届时以实际支持情况为准。
+
  - [ ] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字； 
  - [ ] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字； 
  - [ ] [「JF 当务字集」](https://github.com/justfont/jf7000)基本包所含汉字； 
