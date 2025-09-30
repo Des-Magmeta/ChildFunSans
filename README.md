@@ -45,7 +45,7 @@ An open-source Chinese font derived from Fontworks' Stick.
  ② 部分字形差异视为设计特性，不做修改，如「厶」「幺」「亥」等字。
 
 ### 繁体部分  
-> 该部分将在简体部分补字计划完成后进行，届时将开设繁体中文版，并与之同步进行。
+> 该部分将在简体部分补字计划完成后进行，届时将开设繁体中文版，并与之同步进行。  
 > 在繁体版项目发布初版之前，补字计划列表可能随时发生变动，届时以实际支持情况为准。
 
  - [ ] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字； 
