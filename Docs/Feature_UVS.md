@@ -4,8 +4,10 @@ Unicode 标准化变体序列 (Standardized Variation Sequences, SVS) 资料来�
 
 根据 Unicode 16.0 相关文档，0.300 版本新增 Unicode 变体序列（UVS）支持，在允许使用 UVS 的情况下，可通过该功能实现标点符号的切换。  
 支持的标准化变体序列如下表：  
-| 标点符号 | Unicode | + `U+FE00` | + `U+FE01` | 
+| 字符 | Unicode | + `U+FE00` | + `U+FE01` | 
 | :-------: | :-------: | :--------: | :--------: | 
+| 0 | `U+30` | 斜线零[0︀] |
+| ０ | `U+FF10` | 斜线零[0︀] |
 | ， | `U+FF0C` | 左下[<span lang="zh-cn">，︀</span>] | 居中[<span lang="zh-tw">，︁</span>] |
 | ． | `U+FF0E` | 左下[<span lang="zh-cn">．︀</span>] | 居中[<span lang="zh-tw">．︁</span>] |
 | 、 | `U+3001` | 左下[<span lang="zh-cn">、︀</span>] | 居中[<span lang="zh-tw">、︁</span>] |
