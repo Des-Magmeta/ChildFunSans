@@ -1,4 +1,4 @@
-﻿Copyright 2023-2025 Child Fun Sans Project Authors (https://github.com/Des-Magmeta/ChildFunSans)  
+﻿Copyright 2023-2026 Child Fun Sans Project Authors (https://github.com/Des-Magmeta/ChildFunSans)  
 Copyright 2020 The Stick Project Authors (https://github.com/fontworks-fonts/Stick)  
   
  This Font Software is licensed under the SIL Open Font License, Version 1.1.  
