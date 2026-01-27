@@ -3,6 +3,7 @@
 ### 西文和符号
 əɚɛɝʊ͵΅·Ќ⁰⁵⁶⁹₀₅₆₉═╞╡╪ㄅㄆ
 ### 汉字（约 100 字）
+<img width="1511" height="739" alt="image" src="https://github.com/user-attachments/assets/bee8fcd5-23a0-4ce8-a8e0-556a9b1cd1bc" />
 
 <details><summary>
 
