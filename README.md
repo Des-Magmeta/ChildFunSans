@@ -39,15 +39,12 @@ An open-source Chinese font derived from Fontworks' Stick.
  - [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字； 
  - [x] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字； 
  - [x] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字； 
- - [ ] 按需添加一些表外字，参照[「霞鹜开源字体外字初步整理一览表」第一部分](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。 
+ - [x] 按需添加一些表外字，参照[「霞鹜开源字体外字初步整理一览表」第一部分](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。 
 
  ① 包括《义务教育语文课程常用字表》、GB/T 2312-1980、《现代汉语通用字表》《通用规范汉字表》。  
  ② 部分字形差异视为设计特性，不做修改，如「厶」「幺」「亥」等字。
 
-### 繁体部分  
-> 该部分将在简体部分补字计划完成后进行，届时将开设繁体中文版，并与之同步进行。 
->  
-> 在繁体版项目发布初版之前，补字计划列表可能随时发生变动，届时以实际支持情况为准。
+### 繁体部分
 
  - [ ] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)（[原文](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=90394D2B4115D9291C825A7651AEFE4B)）6866 个汉字； 
  - [ ] 台湾地区[「常用国字标准字体表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)4808 个繁体常用汉字； 
