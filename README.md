@@ -82,4 +82,4 @@ An open-source Chinese font derived from Fontworks' Stick.
  - [@奈白不弍](https://github.com/Buernia)、[@Steve-Yuu](https://github.com/Steve-Yuu)、[@不务正业的小鸡](https://github.com/buwuzhengyedexiaoji)、[@GeorgomeFont](https://github.com/GeorgomeFont) 协助完善字体。
 
 ## 本项目星数趋势图  
- [![Stargazers over time](https://starchart.cc/Des-Magmeta/ChildFunSans.svg)](https://starchart.cc/Des-Magmeta/ChildFunSans)
+ [![Stargazers over time](https://starchart.cc/Des-Magmeta/ChildFunSans.svg?variant=adaptive)](https://starchart.cc/Des-Magmeta/ChildFunSans)
