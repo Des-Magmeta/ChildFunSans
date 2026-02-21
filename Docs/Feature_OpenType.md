@@ -11,12 +11,12 @@
 - `dlig` Discretionary Ligatures | 自由连字 | 自選連字
 - `vert` Vertical forms | 竖直书写形式 | 縱書形式
 - `cpct`/`ss01` Centered CJK Punctuation | 全角标点居中 | 全形置中標點
-- `ss03` Titled Punctuation | 漫画标点符号 | 漫畫標點符號
+- `ss02` Titled Punctuation | 漫画标点符号 | 漫畫標點符號
 - `ss04` Third width | 三分宽数字与符号 | 三分之一寬度字
 - `ss05` Quarter width | 四分宽数字与符号 | 四分之一寬度字
 
-支持自由连字(`dlig`)的字符组合及其倾斜标点(`ss03`)可用情况见下表：
-**`ss03`是否支持** | **描述** | **Unicode** | **字符(仅限已入Ｕ)** | **字符组合** 
+支持自由连字(`dlig`)的字符组合及其倾斜标点(`ss02`)可用情况见下表：
+**`ss02`是否支持** | **描述** | **Unicode** | **字符(仅限已入Ｕ)** | **字符组合** 
  --- | --- | --- | --- | --- 
 　| 双重问号 | U+2047 |⁇| ？？ 
 　| 三重问号 | U+FF1F U+FF1F U+FF1F | | ？？？
