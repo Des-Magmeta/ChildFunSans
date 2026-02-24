@@ -10,6 +10,14 @@
 An open-source Chinese font derived from Fontworks' Stick. 
 一款开源简体中文字体，基于 Fontworks（今 Monotype 株式会社）的 Stick 衍生。
 
+> [!IMPORTANT]
+> - 字形调整请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans/issues/1) 反馈，添加字符请求请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans/issues/2) 提出，不要另开议题，以便于整理。
+> - 若需要在网站上使用这款字体，请在 [ZSFT](https://fonts.zeoseven.com/items/219/) 查找「游趣体」系列字体。
+> - 更多版本 *（可能会随时变动）* ：
+>   <span lang="zh-TW">
+>   - [遊趣體 TC / Child Fun Sans TC](https://github.com/Des-Magmeta/ChildFunSans-TC)：繁體中文版，在傳統字形基礎上適當融合現代慣用筆形，適用於繁體中文用戶。
+>   </span>
+
 ## 项目简介  
 游趣体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，本人基于 Fontworks 出品的日文字体 [Stick](https://github.com/fontworks-fonts/Stick) 增补、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
 
