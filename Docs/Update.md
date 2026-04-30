@@ -14,6 +14,9 @@
 - 恢复「々」的`palt`、`vpal`属性；
 - 新增「〻」的`palt`属性；
 - 新增「゠」的`palt`、`vpal`属性；
+- 新增「Ŋ」「ŋ」结合声调符号组合字形的 OpenType 特性；
+- 新增「〳」「〴」「〵」字形的 OpenType 自动组合特性；
+- 移除注音符号直排相关字形及其 OpenType。
 
 <details><summary>
 
