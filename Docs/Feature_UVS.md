@@ -1,6 +1,7 @@
 # 「游趣体」变体序列一览表 
 ## Unicode 标准化变体序列  
-Unicode 标准化变体序列 (Standardized Variation Sequences, SVS) 资料来源：https://www.unicode.org/Public/16.0.O/ued/StandardizedVariants.txt
+Unicode 标准化变体序列 (Standardized Variation Sequences, SVS) 资料来源：https://www.unicode.org/Public/16.0.0/ucd/StandardizedVariants.txt
+
 
 根据 Unicode 16.0 相关文档，0.300 版本新增 Unicode 变体序列（UVS）支持，在允许使用 UVS 的情况下，可通过该功能实现标点符号的切换。  
 支持的标准化变体序列如下表：  
