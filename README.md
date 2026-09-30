@@ -21,9 +21,10 @@ An open-source Chinese font derived from Fontworks' Stick.
 > - 字形调整请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans/issues/1) 反馈，添加字符请求请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans/issues/2) 提出，不要另开议题，以便于整理。
 > - 若需要在网站上使用这款字体，请在 [ZSFT](https://fonts.zeoseven.com/items/219/) 查找「游趣体」系列字体。
 > - 更多版本 *（可能会随时变动）* ：
->   <span lang="zh-TW">
->   - [遊趣體 TC / Child Fun Sans TC](https://github.com/Des-Magmeta/ChildFunSans-TC)：繁體中文版，在傳統字形基礎上適當融合現代慣用筆形，適用於繁體中文用戶。
->   </span>
+>   - <span lang="zh-TW">[遊趣體 TC / Child Fun Sans TC](https://github.com/Des-Magmeta/ChildFunSans-TC)：繁體中文版，在傳統字形基礎上適當融合現代慣用筆形，適用於繁體中文用戶。</span>  
+>   - <span lang="ja">[ステッキ / Stick](https://github.com/fontworks-fonts/Stick)：オリジナルバージョン（日本語版）です。日本語版が必要な場合は、オリジナルフォント「ステッキ」を直接使用してください。<br>
+>   For Japanese users or to show Japanese contexts correctly, please use the original version [Stick](https://github.com/fontworks-fonts/Stick) directly. </span>
+
 
 ## 项目简介  
 游趣体因笔形像笔杆一样以直线设计，而被视为一款既可爱调皮，亦有田园写意风格的字体，本人基于 Fontworks 出品的日文字体 [Stick](https://github.com/fontworks-fonts/Stick) 增补、调整字形，并编辑、适当增加 OpenType 特性，以满足简体中文的使用需求。
@@ -68,19 +69,19 @@ An open-source Chinese font derived from Fontworks' Stick.
  - [ ] 香港地区[「常用字字形表」](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt) 常用汉字及部分异体字； 
  - [ ] [《通用规范汉字表》](https://zi.tools/?secondary=character_set&set=G%E9%80%9A%E8%A7%84)附件「规范字与繁体字、异体字对照表」中的繁体字列（一、二、三级）。
        
-  后续版本将跟进繁体版更新，字形将与繁体版大致相同。
+  后续版本将跟进繁体版更新，此时增加的字形将与繁体版大致相同。
 
 ## 注意事项
  1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感，且在新补字符中部分字的轮廓曲线会有毛刺。此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。如有字形优化建议，请在 [Issue #1](https://github.com/Des-Magmeta/ChildFunSans/issues/1) 提出。如需请求添加目标范围以外的字符，请在 [Issue #2](https://github.com/Des-Magmeta/ChildFunSans/issues/2) 提出，不要另开议题，以便于整理。 （以上两个议题均已加上 long term 标签，且均已在 Issues 页面置顶。）  
  2. ~~在补齐 GB/T 2312 前，此字体将出现一定的缺字可能。在不介意字体回退的情况下，如需支持缺字字符，请移步[「游趣体融合」](https://github.com/Des-Magmeta/ChildFunSans-Fusion)。~~ 此项目 0.400 版本已补齐 GB/T 2312，「游趣体融合」已永久停更并归档处理。  
  3. 自 0.300 版本起，「游趣体」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于弯引号`“‘’”`宽度和全角标点符号`，．、。：；！？`位置的选择，支持变体序列的字符和所搭配的选择符详见[「游趣体」变体序列一览表](./Docs/Feature_UVS.md)。**WPS Office、PowerPoint (Microsoft 365) 软件不支持此特性**，使用时需留意。 
  4. 部分软件（如 PowerPoint 365）中，使用该字体可能会出现竖排文本显示异常的问题（如弯引号不能正确显示）。关于此问题，详见 [Issue #3](https://github.com/Des-Magmeta/ChildFunSans/issues/3)。
- 5. 自 0.310 版起，「游趣体」项目在同一版本中同时发布完整版和简体版，除收录汉字数量上的差异外，部分符号的字形存在一定差异。差异字符详见[文件内容差异一览](./Docs/Chars_Difference.md)。
+ 5. ~~自 0.310 版起，「游趣体」项目在同一版本中同时发布完整版和简体版，除收录汉字数量上的差异外，部分符号的字形存在一定差异。~~ 自 1.000 版本起，简体版停止更新，后续版本仅包含完整版，但此前版本中完整版与简体版的差异字符仍可通过`salt`调用，差异字符详见[文件内容差异一览](./Docs/Chars_Difference.md)。
 
 ## 协助完善 
   「游趣体」仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。  
  - **Email:** des-magmeta@163.com；1265318015@qq.com 
- - **哔哩哔哩：**[仲代 Magmeta](https://space.bilibili.com/3546981905467779)
+ - **哔哩哔哩：**[仲代骆驼 Magmeta](https://space.bilibili.com/3546981905467779)
 
 ## 授权信息 
  本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Stick](https://github.com/fontworks-fonts/Stick) 开源项目。
